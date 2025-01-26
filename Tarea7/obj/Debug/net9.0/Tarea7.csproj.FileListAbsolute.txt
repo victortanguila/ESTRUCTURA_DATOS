@@ -1,0 +1,15 @@
+C:\ESTRUCTURA_DATOS\Tarea7\bin\Debug\net9.0\Tarea7.exe
+C:\ESTRUCTURA_DATOS\Tarea7\bin\Debug\net9.0\Tarea7.deps.json
+C:\ESTRUCTURA_DATOS\Tarea7\bin\Debug\net9.0\Tarea7.runtimeconfig.json
+C:\ESTRUCTURA_DATOS\Tarea7\bin\Debug\net9.0\Tarea7.dll
+C:\ESTRUCTURA_DATOS\Tarea7\bin\Debug\net9.0\Tarea7.pdb
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\Tarea7.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\Tarea7.AssemblyInfoInputs.cache
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\Tarea7.AssemblyInfo.cs
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\Tarea7.csproj.CoreCompileInputs.cache
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\Tarea7.sourcelink.json
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\Tarea7.dll
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\refint\Tarea7.dll
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\Tarea7.pdb
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\Tarea7.genruntimeconfig.cache
+C:\ESTRUCTURA_DATOS\Tarea7\obj\Debug\net9.0\ref\Tarea7.dll
