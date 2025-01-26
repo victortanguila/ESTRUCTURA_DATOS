@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "oht4bTEOBNw=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\ESTRUCTURA_DATOS\\Ejercicio1\\Ejercicio1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "oht4bTEOBNw=",
+  "success": true,
+  "projectFilePath": "C:\\ESTRUCTURA_DATOS\\Ejercicio1\\Ejercicio1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 3f4ab64af452bd2aa4881b45ad94223f9e634223
 }

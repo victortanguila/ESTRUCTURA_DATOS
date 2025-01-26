@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\ESTRUCTURA_DATOS\Ejercicio5\bin\Debug\net9.0\Ejercicio5.exe
 C:\ESTRUCTURA_DATOS\Ejercicio5\bin\Debug\net9.0\Ejercicio5.deps.json
 C:\ESTRUCTURA_DATOS\Ejercicio5\bin\Debug\net9.0\Ejercicio5.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\refint\Ejercicio5.dll
 C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.pdb
 C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.genruntimeconfig.cache
 C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\ref\Ejercicio5.dll
+=======
+C:\ESTRUCTURA_DATOS\Ejercicio5\bin\Debug\net9.0\Ejercicio5.exe
+C:\ESTRUCTURA_DATOS\Ejercicio5\bin\Debug\net9.0\Ejercicio5.deps.json
+C:\ESTRUCTURA_DATOS\Ejercicio5\bin\Debug\net9.0\Ejercicio5.runtimeconfig.json
+C:\ESTRUCTURA_DATOS\Ejercicio5\bin\Debug\net9.0\Ejercicio5.dll
+C:\ESTRUCTURA_DATOS\Ejercicio5\bin\Debug\net9.0\Ejercicio5.pdb
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.AssemblyInfoInputs.cache
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.AssemblyInfo.cs
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.sourcelink.json
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.dll
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\refint\Ejercicio5.dll
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.pdb
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\Ejercicio5.genruntimeconfig.cache
+C:\ESTRUCTURA_DATOS\Ejercicio5\obj\Debug\net9.0\ref\Ejercicio5.dll
+>>>>>>> 3f4ab64af452bd2aa4881b45ad94223f9e634223

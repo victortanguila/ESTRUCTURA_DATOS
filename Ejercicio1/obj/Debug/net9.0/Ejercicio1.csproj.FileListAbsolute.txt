@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\ESTRUCTURA_DATOS\Ejercicio1\bin\Debug\net9.0\Ejercicio1.exe
 C:\ESTRUCTURA_DATOS\Ejercicio1\bin\Debug\net9.0\Ejercicio1.deps.json
 C:\ESTRUCTURA_DATOS\Ejercicio1\bin\Debug\net9.0\Ejercicio1.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\refint\Ejercicio1.dll
 C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.pdb
 C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.genruntimeconfig.cache
 C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\ref\Ejercicio1.dll
+=======
+C:\ESTRUCTURA_DATOS\Ejercicio1\bin\Debug\net9.0\Ejercicio1.exe
+C:\ESTRUCTURA_DATOS\Ejercicio1\bin\Debug\net9.0\Ejercicio1.deps.json
+C:\ESTRUCTURA_DATOS\Ejercicio1\bin\Debug\net9.0\Ejercicio1.runtimeconfig.json
+C:\ESTRUCTURA_DATOS\Ejercicio1\bin\Debug\net9.0\Ejercicio1.dll
+C:\ESTRUCTURA_DATOS\Ejercicio1\bin\Debug\net9.0\Ejercicio1.pdb
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.AssemblyInfo.cs
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.sourcelink.json
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.dll
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\refint\Ejercicio1.dll
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.pdb
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.genruntimeconfig.cache
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\ref\Ejercicio1.dll
+>>>>>>> 3f4ab64af452bd2aa4881b45ad94223f9e634223
